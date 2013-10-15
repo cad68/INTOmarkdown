@@ -5,7 +5,9 @@ Agust Einarsson.
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+I had the Linux (Ubuntu 12.04) installed on forehand as a dual boot. I am nothing close to a super user but have been trying this out for few years mostly for music player on old laptops.
+![Dual boot2][dualboot]
+
 
 ## 2. Uppsetning á vim && git
 
@@ -24,3 +26,6 @@ Ubuntu 12.04 (had it before this assignment bud I am not superuser). The linux k
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+
+
+[dualboot]: https://www.dropbox.com/s/59a6s6zfg3hgscf/Mynd0236.jpg?raw=true  "Dual boot"
